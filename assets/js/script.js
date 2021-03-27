@@ -44,19 +44,19 @@ const app = {
         {
             name: 'Save Your Tears',
             singer: 'The Weekend',
-            path: './assets/music/Save Your Tears - The Weeknd.flac',
+            path: './assets/music/Save-Your-Tears-The-Weeknd.mp3',
             image: './assets/img/SaveYourTears.jpg',
         },
         {
             name: 'At My Worst',
             singer: 'Pink Sweat',
-            path: './assets/music/At My Worst - Pink Sweat_.flac',
+            path: './assets/music/At-My-Worst-Pink-Sweat_.mp3',
             image: './assets/img/At My Worst.jpg',
         },
         {
             name: 'Happy',
             singer: 'Pharrell Williams',
-            path: './assets/music/Happy - Pharrell Williams.flac',
+            path: './assets/music/Happy-Pharrell-Williams.mp3',
             image: './assets/img/Happy.jpg',
         },
         {
@@ -68,7 +68,7 @@ const app = {
         {
             name: 'Love Me Like You Do',
             singer: 'Ellie Goulding',
-            path: './assets/music/Love Me Like You Do - Ellie Goulding.flac',
+            path: './assets/music/Love-Me-Like-You-Do-Ellie-Goulding.mp3',
             image: './assets/img/Love Me Like You Do.jpg',
         },
         {
